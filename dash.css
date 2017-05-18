@@ -125,7 +125,8 @@ body {
   line-height: 1.6;
   font-weight: 400;
   font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: rgb(50, 50, 50); }
+  color: rgb(31, 148, 150);
+  background-color: rgb(253, 246, 227);}
 
 
 /* Typography
@@ -134,7 +135,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 0;
   font-weight: 300;
-  color: rgb(34, 34, 34); }
+  color: rgb(101. 123, 131); }
 h1 { font-size: 4.0rem; line-height: 1.2;  letter-spacing: -.1rem; margin-bottom: 2rem; }
 h2 { font-size: 3.6rem; line-height: 1.25; letter-spacing: -.1rem; margin-bottom: 1.8rem; }
 h3 { font-size: 3.0rem; line-height: 1.3;  letter-spacing: -.1rem; margin-bottom: 1.5rem; }
